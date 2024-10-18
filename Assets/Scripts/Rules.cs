@@ -1,10 +1,8 @@
-using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class Rules : MonoBehaviour
 {
-    [SerializeField] private bool _devMode = false;
 
     void Awake()
     {
